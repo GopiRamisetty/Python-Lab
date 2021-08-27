@@ -1,1 +1,1 @@
-# prime-number
+Python programming lab 
